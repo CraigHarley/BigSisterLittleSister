@@ -12,4 +12,10 @@
 
 
 ## After changes in Little Sister
+
+### Linking
+* Run `yarn link` in the Little Sister folder.
+* Run `yarn link little_sister` in the Big Sister (root).
+
+### One time update
 * Run `yarn upgrade little_sister` to update the package pulled into the `big_sister`.
