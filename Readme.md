@@ -9,3 +9,7 @@
 * Clone
 * `yarn`
 * `yarn start`
+
+
+## After changes in Little Sister
+* Run `yarn upgrade little_sister` to update the package pulled into the `big_sister`.
